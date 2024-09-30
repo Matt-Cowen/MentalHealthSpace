@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
+
+/*------------------- General */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* -------------------Colours */
+/* 
+$raisin-black: rgba(46, 31, 39, 1);
+$light-coral: rgba(230, 149, 151, 1);
+$brown: rgba(164, 66, 0, 1);
+$honeydew: rgba(243, 252, 240, 1);
+$midnight-green: rgba(14, 71, 73, 1); */
+
+
+/* -------------------Buttons */
+
+.btn--hero {
+    background-color: rgba(243, 252, 240, 1);
+    border-radius: 2px;
+    color: rgba(46, 31, 39, 1);
+}
+
+
+/* ------------------Dividers */
+
+
+/* ---------------------Navbar */
+
+.navbar-bg {
+    background-color: rgba(243, 252, 240, 1);
+}
+
+.navbar-bg a {
+    color: rgba(46, 31, 39, 1);
+    font-family: "Dosis", sans-serif;
+    text-decoration: none;
+}
+
+.navbar-bg a:hover {
+    color: rgba(46, 31, 39, 1);
+    text-decoration: underline;
+}
+
+.logo-text {
+    font-family: "Dosis", sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+/* -----------------Jumbotron */
+
+.main-header {
+    font-family: "Livvic", sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.hero-text {
+    background-color: rgba(230, 149, 151, 0.3);
+}
+
+.hero-section {
+    padding: 0px; !important
+    margin: 0px;
+}
+
+.jumbotron {
+    height: 600px;
+    width: 100%;
+    background: url(../images/duy-pham-Cecb0_8Hx-o-unsplash.jpg) no-repeat center center/cover;
+    position: relative;
+}
+
+
