@@ -136,14 +136,12 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
 /*--------------- Here to help  */
 
-.help-image{
-    display: none;
-}
 
 .help-image  img {
-    height: 150px;
-    width: 250px;
-    border-radius: 20px;
+    height: 120px;
+    width: 180px;
+    border-radius: 15px;
+    margin: 15px auto;
 }
 
 .help-text p {
@@ -151,10 +149,13 @@ $midnight-green: rgba(14, 71, 73, 1); */
 }
 
 .help-card {
-    background-color: #fad6d6;
-    margin: 20px 0;
+    background-color: #fcf2f2;
+    margin: 20px;
     border-radius: 15px;
     border: 2px solid #ffa1a1fb;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 #here-to-help {
@@ -204,8 +205,4 @@ $midnight-green: rgba(14, 71, 73, 1); */
         min-height: 80vh;
     }
 
-    .help-image{
-        display: contents;
-    }
-    
   }
