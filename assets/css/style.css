@@ -176,6 +176,28 @@ $midnight-green: rgba(14, 71, 73, 1); */
     background-color: rgb(216, 213, 237);
 }
 
+footer p {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    margin: auto 20px;
+    color: rgba(46, 31, 39, 1);
+}
+
 
 
 /* ----------------------------------------------------------Homepage */
