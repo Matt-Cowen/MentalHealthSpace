@@ -148,9 +148,7 @@ $midnight-green: rgba(14, 71, 73, 1); */
     margin-left: 25px;
 }
 
-.active {
-    text-decoration: underline;
-}
+
 
 .navbar-bg {
     background-color: #D8D5ED;
@@ -164,6 +162,10 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
 .navbar-bg a:hover {
     color: rgba(46, 31, 39, 1);
+    text-decoration: underline;
+}
+
+.nav-link .active {
     text-decoration: underline;
 }
 
