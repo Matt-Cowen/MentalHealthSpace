@@ -85,7 +85,8 @@ $midnight-green: rgba(14, 71, 73, 1); */
 .btn--services {
     background-color: rgb(52, 129, 63);
     color: rgb(255, 255, 255);
-    width: 100%;
+    font-size: 24px;
+    width: 60%;
     margin-bottom: 30px;
     padding: 8px 0;
     border-radius: 15px;
@@ -192,18 +193,25 @@ color: rgb(229, 230, 253);
 }
 
 footer p {
-    margin: 10px 0 0;
-    font-size: 16px;
+    margin: auto 15px;
+    font-size: 12px;
     font-style: italic;
+    font-weight: 500;
+    text-align: end;
+}
+
+#social-networks-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 #social-networks {
     text-align: center;
     padding: 20px 0;
     margin-bottom: 0;
-    display: flex;
-    justify-content: space-evenly;
     list-style-type: none;
+    display: flex;
 }
 
 #social-networks i {
@@ -488,6 +496,14 @@ footer p {
         margin-left: 25px;
     }
 
+    footer p {
+        margin: auto 30px;
+        font-size: 16px;
+        font-style: italic;
+        font-weight: 600;
+        text-align: end;
+    }
+
 
 }
 
@@ -496,9 +512,6 @@ footer p {
 
 @media screen and (min-width:992px) {
 
-    #crisis-card {
-        border: 10px solid rgb(242, 66, 54);
-    }
 
 
     .nav-link {
