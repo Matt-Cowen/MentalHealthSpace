@@ -236,7 +236,7 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
 
 .help-card {
-    background-color: rgba(243, 252, 240, 1);
+    background-color: rgb(255, 255, 255);
     margin: 10px;
     border-radius: 15px;
     border: 10px solid rgb(216, 213, 237);
@@ -252,6 +252,10 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
 .help-icon {
     font-size: 34px;
+}
+
+.crisis-icon {
+    color: rgb(242, 66, 54);
 }
 
 #here-to-help {
@@ -377,9 +381,6 @@ $midnight-green: rgba(14, 71, 73, 1); */
         border: 10px solid rgb(242, 66, 54);
     }
 
-    #crisis-card .btn--help {
-        background-color: rgb(242, 66, 54);
-    }
 
     .nav-link {
         margin: 0 5px;
