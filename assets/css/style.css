@@ -430,6 +430,7 @@ footer p {
     font-weight: 900;
     color: rgba(46, 31, 39, 1);
     padding: 0;
+    max-height: 80%;
 }
 
 #aff-title {
@@ -450,7 +451,7 @@ footer p {
 }
 
 #change-affirmation-button {
-    margin-top: 40px;
+    margin-top: 0;
     font-size: 26px;
     width: 20vw;
     background-color: rgb(218, 162, 9);
