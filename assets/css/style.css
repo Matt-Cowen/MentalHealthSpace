@@ -279,12 +279,20 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
 .help-card h3 {
     font-weight: 600;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
+    display: inline-block;
+}
+
+.help-card p {
+    display: inline-block;
 }
 
 .help-icon {
     font-size: 34px;
+
 }
+
+
 
 .crisis-icon {
     color: rgb(242, 66, 54);
@@ -440,6 +448,10 @@ $midnight-green: rgba(14, 71, 73, 1); */
 
     .btn--help {
         min-height: 58px;
+    }
+
+    .help-card {
+        min-height: 630px;
     }
 
 
