@@ -92,6 +92,11 @@ $midnight-green: rgba(14, 71, 73, 1); */
     border-radius: 15px;
 }
 
+.btn--services:hover {
+    background-color: rgb(38, 94, 46);
+    color: rgb(255, 255, 255);
+}
+
 
 /* ------------------Dividers */
 
@@ -128,9 +133,6 @@ $midnight-green: rgba(14, 71, 73, 1); */
     margin: 0;
 }
 
-.drk-bg-h2:hover {
-color: rgb(229, 230, 253);
-}
 
 .no-pad {
     margin: 0px;
@@ -435,7 +437,7 @@ footer p {
     margin: auto;
     border-radius: 15px;
     border: 10px solid rgb(216, 213, 237);
-    font-weight: 900;
+    font-weight: 700;
     color: rgba(46, 31, 39, 1);
     padding: 0;
     max-height: 80%;
@@ -448,18 +450,19 @@ footer p {
 
 #affirmation-div {
     text-align: center;
+    position: relative;
 
 }
 
 #affirmation {
-    margin: 50px 15px 30px;
-    font-size: 36px;
+    margin: 20px 15px 20px;
+    font-size: 28px;
     font-family: inherit;
     font-weight: 600;
 }
 
 #change-affirmation-button {
-    margin-top: 0;
+    margin-bottom: 15px;
     font-size: 26px;
     width: 20vw;
     background-color: rgb(218, 162, 9);
@@ -480,6 +483,12 @@ footer p {
     text-decoration: none;
     color: inherit;
     float: right;
+}
+
+.copyright {
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 
