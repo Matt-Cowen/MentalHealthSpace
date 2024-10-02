@@ -32,7 +32,7 @@ Author: Matt Cowen
 </p>
 
 
- > Fully responsive Hompage with a calming colour scheme and a welcoming message/image combination.
+ - Fully responsive Hompage with a calming colour scheme and a welcoming message/image combination.
 
 #### Services Page
 
@@ -44,7 +44,7 @@ Author: Matt Cowen
 <img src="assets/images/MHSSDesktop.png" alt="Services page images across different devices" width="60%" display="inline-block">
 </p>
 
- >Easily navigable services list with clear headers.
+ - Easily navigable services list with clear headers.
 
 
  #### Positive Affirmations Generator
@@ -54,9 +54,9 @@ Author: Matt Cowen
 <p>
 
 
->A fun and positive generator for your daily positive affirmations!
+- A fun and positive generator for your daily positive affirmations!
 
->A footer with links to MentalHealthSpace's socials and a message of encouragement.
+- A footer with links to MentalHealthSpace's socials and a message of encouragement.
 
 
 
