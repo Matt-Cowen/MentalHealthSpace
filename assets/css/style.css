@@ -228,12 +228,6 @@ footer p {
 
 /* -----------------Jumbotron */
 
-.main-header {
-    font-family: "Livvic", sans-serif;
-    font-size: 45px;
-    font-weight: 400;
-    letter-spacing: 3px;
-}
 
 .hero-text {
     background-color: rgba(255, 255, 255, 0.5);
@@ -255,6 +249,8 @@ footer p {
     margin-bottom: 0px;
     border-radius: 0;
 }
+
+
 
 
 
@@ -504,6 +500,7 @@ footer p {
     #logo-text {
         margin-left: 25px;
     }
+
 
     footer p {
         margin: auto 30px;

@@ -4,6 +4,12 @@ MentalHealthSpace is a site dedicated to providing easily accessible information
 It aims to provide an environment in which people suffering from mental health issues - and those aorund them - can come for
 advice, be directed to appropriate resources and get their daily dose of positivity.
 
+Author: Matt Cowen
+
+[Live Site](https://matt-cowen.github.io/MentalHealthSpace/)
+
+[Repository](https://github.com/Matt-Cowen/MentalHealthSpace)
+
 
 ## Project Brief
 
@@ -22,7 +28,59 @@ Resource Links: A grid layout for external links to mental health resources, sty
 
 Positive Affirmations: Use Bootstrap’s text utilities to include a section with uplifting quotes or messages to encourage users.<br>
 
-## Ideation
+## UX
+
+The site is presented in a minimalist but effective way, providing access all the resources the user might wish to have access to, with a light emphasis on crisis care. The site simply and clearly covers many facets of mental health, and directs the user to appropriate resources in a quick and easy manner, all with a calming lavendar and green colour scheme.
+
+#### User Stories
+
+* As a new user of this website, I want to easily find out the purpose of the site.
+* As a new user of this website, I want to quickly and easy find services appropriate to my needs.
+* As a user of this website, I want to feel welcomed and reassured on arriving at the site.
+* As a user of this website, I want to be provided with access to a list of positive affirmations.
+* As a user, I want to follow the salon on social media so I can keep up to date with the latest information.
+
+
+## UI
+
+### Homepage
+ ![Homepage Wireframes](/assets/images/MentalHealthSpaceHomepage.png)
+
+ The homepage has been kept as simple as possible to remove any potnetial confusion/stress for new visitors to the site. It catches the user with a welcoming and reassuring message and image, and leads them down the the "Here to Help" section, where they can choose one of three main services displayed on cards. If they are looking for a more specific services, a large button towards the bottom links them to the "Services" page (displayed below.)
+
+
+### Services
+ ![Homepage Wireframes](/assets/images/MentalHealthSpaceHomepage.png)
+
+ The services page was created to reduce information overload on the landing page, whilst still managing to proivide a large amount of information to the user in an easily digestible way. The Services are divided into type by section, and displayed on fully responsive bootstrap grid cards, with large images to convey the services they represent, allowing the user to pick the service they require quickly and easily.
+
+
+### Positive Affirmations
+(screenshot in Features section)
+
+When trying to add Positive Affirmations (as per client suggestion) it was found that there wasn't a way to introduce them to either of the other pages without them becoming too busy and cluttered. The Positive affirmations page was added such that the user could access a large list of positive affirmations without any distraction from other mental health related content. It departs slightly from the general colour scheme of the rest of the site to impart an impression of positivity and joy.
+
+
+## Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * From the source section drop-down menu, select the Main Branch
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    * The live link can be found here - https://matt-cowen.github.io/MentalHealthSpace/
+
+
+## Acknowledgements
+
+All copy for this project was produced by  **ChatGPT**, a language model developed by [OpenAI](https://openai.com).
+
+All open source images were taken from [UnSplash](https://unsplash.com/)
+
+The code behind the Positive Affirmation Generator was written by Eleanor Keane, accessed via **Dominck** on [Codepen](https://codepen.io/Tyrantd27)
+
+Fonts from [Google Fonts](https://fonts.google.com/)
+
+Icons from [FontAwesome](https://fontawesome.com/)
 
 
 
