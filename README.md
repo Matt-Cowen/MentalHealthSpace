@@ -15,24 +15,44 @@ Author: Matt Cowen
 
 #### Hompage
 
- ![Homepage](/assets/images/MHSHPMobile1.png)
+<p align="center">
+<img src="assets/images/MHSHPMobile1.png" alt="Home page images across different devices" width="40%" display="inline-block">
+<p>
 
-![Homepage](/assets/images/MHSHPMobile2.png)
+<p align="center">
+<img src="assets/images/MHSHPDesktop1.png" alt="Home page images across different devices" width="60%" display="inline-block">
+</p>
 
- ![Homepage](/assets/images/MHSHPDesktop1.png)
+<p align="center">
+<img src="assets/images/MHSHPMobile2.png" alt="Home page images across different devices" width="40%" display="inline-block">
+<p>
 
-  ![Homepage](/assets/images/MHSHPDesktop2.png)
+<p align="center">
+<img src="assets/images/MHSHPDesktop2.png" alt="Home page images across different devices" width="60%" display="inline-block">
+</p>
+
 
  > Fully responsive Hompage with a calming colour scheme and a welcoming message/image combination.
 
+#### Services Page
 
- ![Services Page](/assets/images/MHSSDesktop.png)
+<p align="center">
+<img src="assets/images/MHSSMobile.png" alt="Services page images across different devices" width="40%" display="inline-block">
+<p>
 
-  ![Services Page](/assets/images/MHSSMobile.png)
+<p align="center">
+<img src="assets/images/MHSSDesktop.png" alt="Services page images across different devices" width="60%" display="inline-block">
+</p>
 
  >Easily navigable services list with clear headers.
 
-![Services Page](/assets/images/MHSPAMobile.png)
+
+ #### Positive Affirmations Generator
+
+ <p align="center">
+<img src="assets/images/MHSPAMobile.png" alt="Services page images across different devices" width="40%" display="inline-block">
+<p>
+
 
 >A fun and positive generator for your daily positive affirmations!
 
