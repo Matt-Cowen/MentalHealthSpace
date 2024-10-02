@@ -94,6 +94,11 @@ When trying to add Positive Affirmations (as per client suggestion) it was found
 
 * More Positive Affirmations!
 
+## Testing
+
+ * HTML validated through [W3C](https://validator.w3.org/)
+ * CSS validated through [W3C](https://jigsaw.w3.org/css-validator/validator)
+
 ## Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
