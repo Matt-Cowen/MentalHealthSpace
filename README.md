@@ -11,14 +11,47 @@ Author: Matt Cowen
 [Repository](https://github.com/Matt-Cowen/MentalHealthSpace)
 
 
-## Project Brief
+## Features
+
+#### Hompage
+
+ ![Homepage](/assets/images/MHSHPMobile1.png)
+
+![Homepage](/assets/images/MHSHPMobile2.png)
+
+ ![Homepage](/assets/images/MHSHPDesktop1.png)
+
+  ![Homepage](/assets/images/MHSHPDesktop2.png)
+
+ > Fully responsive Hompage with a calming colour scheme and a welcoming message/image combination.
+
+
+ ![Services Page](/assets/images/MHSSDesktop.png)
+
+  ![Services Page](/assets/images/MHSSMobile.png)
+
+ >Easily navigable services list with clear headers.
+
+![Services Page](/assets/images/MHSPAMobile.png)
+
+>A fun and positive generator for your daily positive affirmations!
+
+>A footer with links to MentalHealthSpace's socials and a message of encouragement.
+
+
+
+## UX
+
+The site is presented in a minimalist but effective way, providing access all the resources the user might wish to have access to, with a light emphasis on crisis care. The site simply and clearly covers many facets of mental health, and directs the user to appropriate resources in a quick and easy manner, all with a calming lavendar and green colour scheme.
+
+### Project Brief
 
 >The user seeks accessible, beginner-friendly information on mental health, including how to recognize common issues and manage stress, presented in a supportive and organised layout.
 
-### Site Owner’s Goal:
+#### Site Owner’s Goal:
 >The site owner wants to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
 
-### Potential Features might Include:
+#### Potential Features might Include:
 
 Hero Section with Positive Messaging: A Bootstrap Jumbotron with an encouraging message about mental health, using a calming colour scheme and a simple background image. <br>
 
@@ -28,9 +61,6 @@ Resource Links: A grid layout for external links to mental health resources, sty
 
 Positive Affirmations: Use Bootstrap’s text utilities to include a section with uplifting quotes or messages to encourage users.<br>
 
-## UX
-
-The site is presented in a minimalist but effective way, providing access all the resources the user might wish to have access to, with a light emphasis on crisis care. The site simply and clearly covers many facets of mental health, and directs the user to appropriate resources in a quick and easy manner, all with a calming lavendar and green colour scheme.
 
 #### User Stories
 
@@ -50,7 +80,7 @@ The site is presented in a minimalist but effective way, providing access all th
 
 
 ### Services
- ![Homepage Wireframes](/assets/images/MentalHealthSpaceHomepage.png)
+ ![Homepage Wireframes](/assets/images/MentalHealthSpaceServices.png)
 
  The services page was created to reduce information overload on the landing page, whilst still managing to proivide a large amount of information to the user in an easily digestible way. The Services are divided into type by section, and displayed on fully responsive bootstrap grid cards, with large images to convey the services they represent, allowing the user to pick the service they require quickly and easily.
 
@@ -60,6 +90,9 @@ The site is presented in a minimalist but effective way, providing access all th
 
 When trying to add Positive Affirmations (as per client suggestion) it was found that there wasn't a way to introduce them to either of the other pages without them becoming too busy and cluttered. The Positive affirmations page was added such that the user could access a large list of positive affirmations without any distraction from other mental health related content. It departs slightly from the general colour scheme of the rest of the site to impart an impression of positivity and joy.
 
+## Future Features
+
+* More Positive Affirmations!
 
 ## Deployment
 
@@ -68,6 +101,14 @@ When trying to add Positive Affirmations (as per client suggestion) it was found
     * From the source section drop-down menu, select the Main Branch
     * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
     * The live link can be found here - https://matt-cowen.github.io/MentalHealthSpace/
+
+
+## Known Issues
+
+* Helpcards slightly misaligned at the bottom when between lg and x-lg breakpoints.
+
+* I acknowledge that the code in this project is a little messy, given time and a more solid subject matter, I could clean it up!
+
 
 
 ## Acknowledgements
